@@ -7,7 +7,7 @@
 
 # Download Link
 
-Get the latest build here: [Releases](https://github.com/derveror/Evolution_X_Samsung_Galaxy_14_5G/releases)
+Get the latest build here: [Releases](https://github.com/derveror/Evolution_X_Samsung_Galaxy_A14_5G/releases)
 
 # Credits
 
